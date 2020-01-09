@@ -32,8 +32,9 @@ their summer internships.
 ## Communication
 
 This term we will be using Canvas for class discussion. We ask that you pose questions here such that other students may learn from the answers the TAs (or other students) post.
-- Questions should be posted to "Instructors" *only* when the question is personal in nature; else it should be visible to the "Entire Class" such that other students may benefit from the QA.  While we do have a staff mailing list (currently in the processing of being set-up as of this writing) (<cme212-staff-2020@lists.stanford.edu>), I encourage you to post your questions on Canvas.
+- Questions should be posted to "Instructors" *only* when the question is personal in nature; else it should be visible to the "Entire Class" such that other students may benefit from the QA.  While we do have a staff mailing list (currently in the processing of being set-up as of this writing) (<cme212-staff-2020@lists.stanford.edu>), I encourage you to post your questions on the [CME 212 Piazza page](https://piazza.com/class/winter2020/cme212/home). 
 - We will use the [CME 212 Canvas page](https://canvas.stanford.edu/courses/111835) to share class-related files.
+
 
 ## Teaching Staff
 
